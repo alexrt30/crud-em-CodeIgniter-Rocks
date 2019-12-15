@@ -7,13 +7,6 @@
 # crud-codeigniter4
 Exemplo simples de CRUD usando a nova versão do Code Igniter (4)
 
-## Introdução
-
-Faça o clone deste repositório
-`` html
-$ git clone https://github.com/mathmed/crud-codeigniter4.git
-`` ``
-
 ## Configurando o banco de dados
 
 Primeiro de tudo, você precisa configurar um banco de dados. Importe o `crud-codeigniter4 / crudci4.sql` localizado na raiz do projeto no seu banco de dados MYSQL.
