@@ -1,6 +1,6 @@
 #sobre
 
-O CodeIgniter é um Framework de Desenvolvimento de Aplicativos - um kit de ferramentas - para pessoas que constroem sites usando PHP. Seu objetivo é permitir que você desenvolva projetos muito mais rapidamente do que se estivesse escrevendo código do zero, fornecendo um rico conjunto de bibliotecas para tarefas normalmente necessárias, além de uma interface simples e estrutura lógica para acessar essas bibliotecas. O CodeIgniter permite que você se concentre de forma criativa no seu projeto, minimizando a quantidade de código necessária para uma determinada tarefa.
+    O CodeIgniter é um Framework de Desenvolvimento de Aplicativos - um kit de ferramentas - para pessoas que constroem sites usando PHP. Seu objetivo é permitir que você desenvolva projetos muito mais rapidamente do que se estivesse escrevendo código do zero, fornecendo um rico conjunto de bibliotecas para tarefas normalmente necessárias, além de uma interface simples e estrutura lógica para acessar essas bibliotecas. O CodeIgniter permite que você se concentre de forma criativa no seu projeto, minimizando a quantidade de código necessária para uma determinada tarefa.
 
 
 
@@ -24,7 +24,7 @@ Depois disso, defina a configuração do seu banco de dados em `crud-codeigniter
 Verifique se você possui a versão mais recente do php instalada, se tiver, vá para a raiz do projeto e execute
 
 `` html
-Servir $ php spark
+$php spark serve html
 `` ``
 
 seu servidor iniciará na porta 8080.
@@ -33,6 +33,6 @@ seu servidor iniciará na porta 8080.
 
 Para acessar o projeto, digite seu navegador
 `` html
-http: // localhost: 8080
+http://localhost:8080
 `` ``
 
